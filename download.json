@@ -1,0 +1,8 @@
+{
+    "jre": {
+        "win32_x86": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-windows-x32.zip",
+        "win32_x86_64": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-windows-x64.zip",
+        "linux_x86": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-linux-x32.tar.gz",
+        "linux_x86_64": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-linux-x64.tar.gz"
+    }
+}
