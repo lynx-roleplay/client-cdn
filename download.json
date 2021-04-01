@@ -4,5 +4,6 @@
         "win32_x86_64": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-windows-x64.zip",
         "linux_x86": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-linux-x32.tar.gz",
         "linux_x86_64": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u282-b08/openlogic-openjdk-jre-8u282-b08-linux-x64.tar.gz"
-    }
+    },
+    "modpack": "https://onedrive.live.com/download?cid=447AAF8FEEC7E735&resid=447AAF8FEEC7E735%21109&authkey=AEgMSZgGLrx2tJo"
 }
